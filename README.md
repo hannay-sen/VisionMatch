@@ -1,4 +1,4 @@
-# Face Recognition System
+# VISION MATCH
 
 A C++ project exploring face detection and recognition with OpenCV, built around a mock "pharmaceutical secure system" that gates access to patient records behind a webcam face check.
 
